@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<p class="message editable">
   Hey, this is a forked version of Lanyon, built originally by [@mdo](http://twitter.com/mdo). This new version adds in support for Sass, POW, and GithubPages.
 </p>
 
